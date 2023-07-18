@@ -3,6 +3,9 @@
 
 This repository contains a vegetable image detection model developed using PyTorch and NumPy. The model utilizes the ResNet-50 architecture and has been fine-tuned for accurate classification of vegetable images. With rigorous training, testing, and validation on a dataset comprising 21,000 images, the model achieves an impressive accuracy of 88%.
 
+The model's weights can be found at: https://drive.google.com/file/d/1BkNI9drVsvjKJunQQGYqICoA3tmsHr6g/view?usp=sharing
+I couldn't upload them here because of file size restrinctions
+
 Dataset
 The dataset used for training and evaluation consists of 21,000 images of various vegetables. These images are categorized into 15 different crop classes, including bean, bitter gourd, bottle gourd, brinjal, broccoli, cabbage, capsicum, carrot, cauliflower, cucumber, papaya, potato, pumpkin, radish and tomato. The dataset provides a comprehensive representation of the diverse vegetable species.
 The dataset can be found at: https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset
